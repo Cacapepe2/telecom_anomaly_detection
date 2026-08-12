@@ -15,10 +15,6 @@ __pycache__/
 # VS Code
 .vscode/
 
-# Raw datasets
-data/raw/
-data/processed/
-
 # Large data files
 *.csv
 *.xlsx
