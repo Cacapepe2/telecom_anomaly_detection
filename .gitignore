@@ -17,5 +17,6 @@ __pycache__/
 
 # Large data files
 *.csv
+!data/public_github_*.csv
 *.xlsx
 *.parquet
