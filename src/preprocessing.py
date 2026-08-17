@@ -31,4 +31,4 @@ def validate_non_negative(df,colluns):
     result = {}
     for col in colluns:
         result[col] = (df[col].dropna().lt(0).sum())
-        return result
+    return result
